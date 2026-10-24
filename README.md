@@ -4,7 +4,7 @@
 **Author:** BIAO Ashley · Ing2-BIO · ashley.biao@efrei.net · [LinkedIn](https://www.linkedin.com/in/ashley-djeehad-biao-76b720330/)
 **Course:** Data Visualization · **Project proposed by:** Prof. Mano Mathew (mano.mathew@efrei.fr)
 
-Deployed app: _add your Streamlit Community Cloud URL_ · Demo video: _add link_
+Deployed app: https://air-quality-france-biao.streamlit.app/
 
 ---
 
