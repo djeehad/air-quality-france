@@ -1,0 +1,3 @@
+Dataset: https://www.data.gouv.fr/datasets/5b98b648634f415309d52a50
+License: Licence Ouverte 2.0
+Raw files are downloaded by scripts/download_data.py (not bundled).
