@@ -4,7 +4,7 @@
 **Author:** BIAO Ashley · Ing2-BIO · ashley.biao@efrei.net · [LinkedIn](https://www.linkedin.com/in/ashley-djeehad-biao-76b720330/)
 **Course:** Data Visualization · **Project proposed by:** Prof. Mano Mathew (mano.mathew@efrei.fr)
 
-Deployed app: https://air-quality-france-biao.streamlit.app/
+**Deployed app:** https://air-quality-france-biao.streamlit.app/ · **Code:** https://github.com/djeehad/air-quality-france · **Storyboard:** [docs/STORYBOARD.md](docs/STORYBOARD.md) · **Demo video:** _add link_
 
 ---
 
@@ -89,7 +89,7 @@ utils/viz.py               Plotly charts with one consistent, colour-blind-safe 
 utils/i18n.py              English / French texts
 scripts/download_data.py   download + reduce daily CSV files → data/processed/daily.parquet
 scripts/build_stations.py  station metadata .xls → data/stations.csv
-docs/                      video script & explanation
+docs/                      storyboard, video script & explanation
 ```
 
 ## 8. Rubric checklist
